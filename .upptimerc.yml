@@ -4,7 +4,7 @@ repo: Upptime_WebsiteStatusChecker # The name of this repository
 
 sites:
   - name: Graphic Services Reporting (Ultimate)
-    url: porting.graphic-services.co.uk
+    url: reporting.graphic-services.co.uk
   - name: Marketing Services Tools
     url: https://marketingservicestools.justdigital.co.uk
   - name: Dignity Asset Manager
