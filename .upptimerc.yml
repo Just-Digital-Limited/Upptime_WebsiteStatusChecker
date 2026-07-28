@@ -11,14 +11,47 @@ sites:
 status-website:
   baseUrl: /Upptime_WebsiteStatusChecker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: System Status
+  introTitle: Live Service Status
+  introMessage: Real-time operational monitoring for our core services.
+  # Hides unnecessary header links
+  navbar: []
+  # Adds custom CSS for modern polish
+  customCSS: |
+    /* Clean background & typography */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+      background-color: #0f172a !important;
+      color: #f8fafc !important;
+    }
+    
+    /* Sleek, card-style modern container */
+    .container {
+      max-width: 800px !important;
+      padding-top: 3rem !important;
+    }
+    
+    /* Clean header styling */
+    h1 {
+      font-size: 1.75rem !important;
+      font-weight: 600 !important;
+      letter-spacing: -0.025em !important;
+    }
+    
+    p {
+      color: #94a3b8 !important;
+    }
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    /* Minimalist status bars & cards */
+    .card {
+      background: #1e293b !important;
+      border: 1px solid #334155 !important;
+      border-radius: 12px !important;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    /* Hide redundant footer text */
+    footer {
+      opacity: 0.6 !important;
+      font-size: 0.85rem !important;
+    }
