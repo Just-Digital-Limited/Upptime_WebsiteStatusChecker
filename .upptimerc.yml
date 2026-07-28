@@ -9,6 +9,10 @@ sites:
     url: https://marketingservicestools.justdigital.co.uk
   - name: Dignity Asset Manager
     url: https://assetmanager.dignitystore.co.uk/
+  - name: Just Digital Contact List
+    url: https://contacts.justdigital.co.uk/
+  - name: Ambu Deployment
+    url: https://justwebtoprint.co.uk/
 
 status-website:
   baseUrl: /Upptime_WebsiteStatusChecker
