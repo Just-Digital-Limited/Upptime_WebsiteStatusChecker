@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-services-reporting-ultimate",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "71.40%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "71.40%",
+    "uptimeMonth": "71.40%",
+    "uptimeYear": "71.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-28": 0
+    }
   },
   {
     "name": "Marketing Services Tools",
