@@ -11,8 +11,38 @@ sites:
     url: https://assetmanager.dignitystore.co.uk/
   - name: Just Digital Contact List
     url: https://contacts.justdigital.co.uk/
-  - name: Ambu Deployment
+  - name: W2P Ambu Deployment
     url: https://justwebtoprint.co.uk/
+  - name: W2P Homefire Deployment
+    url: https://homefireonline.co.uk/
+  - name: W2P Chanelle Deployment
+    url: https://chanellepharmamarketinghub.co.uk/
+  - name: W2P Destination Accomodation Deployment
+    url: https://destination.justwebtoprint.co.uk/
+  - name: W2P Dignity Deployment
+    url: https://dignitystore.co.uk/
+  - name: W2P FFT Deployment
+    url: https://fftshop.org.uk/
+  - name: W2P Fresenius Deployment
+    url: https://freseniuspixelstopaper.co.uk/
+  - name: W2P Holroyd Deployment
+    url: https://www.hhmarketinghub.co.uk/
+  - name: W2P Homes for Students Deployment
+    url: https://print.wearehomesforstudents.com/
+  - name: W2P Karcher Deployment
+    url: https://karcherweb2print.co.uk/
+  - name: W2P NHSP Deployment
+    url: https://nhsptoolkit.com/
+  - name: W2P RSC Deployment
+    url: https://rscbrandcentre.co.uk/
+  - name: W2P Stem Deployment
+    url: https://stemweb2print.com/
+  - name: W2P  Tax Assist Deployment
+    url: https://taxassist.justdigital.co.uk/
+  - name: W2P WOW Deployment
+    url: https://wowworldmarketingportal.co.uk/
+  - name: Shopify In Memory Pins
+    url: https://inmemorypins.co.uk/
   - name: Altrincham Feedback Form
     url: https://altrinchamfeedback.justdigital.co.uk/
   - name: Just Digital Website
