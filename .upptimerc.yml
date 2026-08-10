@@ -13,6 +13,25 @@ sites:
     url: https://contacts.justdigital.co.uk/
   - name: Ambu Deployment
     url: https://justwebtoprint.co.uk/
+  - name: Altrincham Feedback Form
+    url: https://altrinchamfeedback.justdigital.co.uk/
+  - name: Just Digital Website
+    url: https://justdigital.co.uk/
+  - name: Just Digital Contacts Page
+    url: https://contacts.justdigital.co.uk/
+  - name: Dignity Forms
+    url: https://forms.dignitystore.co.uk/
+  - name: Graphic Services Website
+    url: https://funeral-orderofservice.com/
+  - name: Let us know Graphic Services
+    url: https://letusknow.graphic-services.co.uk/
+  - name: Memorial Pages
+    url: memorial.graphic-services.co.uk
+  - name: JD Middleware
+    url: middleware.justdigital.co.uk
+  - name: Pet Pairs
+    url: petpairs.justdigital.co.uk
+
 
 status-website:
   baseUrl: /Upptime_WebsiteStatusChecker
