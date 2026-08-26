@@ -4,10 +4,10 @@
     "url": "reporting.graphic-services.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-services-reporting-ultimate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.42%",
     "time": 1197,
@@ -16,7 +16,8 @@
     "timeMonth": 1197,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2026-07-28": 238
+      "2026-07-28": 238,
+      "2026-08-26": 3
     }
   },
   {
@@ -24,54 +25,60 @@
     "url": "https://marketingservicestools.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/marketingservicestools.justdigital.co.uk.ico",
     "slug": "marketing-services-tools",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 532,
     "timeDay": 468,
     "timeWeek": 577,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 3
+    }
   },
   {
     "name": "Dignity Asset Manager",
     "url": "https://assetmanager.dignitystore.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/assetmanager.dignitystore.co.uk.ico",
     "slug": "dignity-asset-manager",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 528,
     "timeDay": 590,
     "timeWeek": 572,
     "timeMonth": 528,
     "timeYear": 528,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 2
+    }
   },
   {
     "name": "Just Digital Contact List",
     "url": "https://contacts.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.justdigital.co.uk.ico",
     "slug": "just-digital-contact-list",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 716,
     "timeDay": 748,
     "timeWeek": 717,
     "timeMonth": 716,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 2
+    }
   },
   {
     "name": "W2P Ambu Deployment",
@@ -366,18 +373,20 @@
     "url": "https://altrinchamfeedback.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/altrinchamfeedback.justdigital.co.uk.ico",
     "slug": "altrincham-feedback-form",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 510,
     "timeDay": 568,
     "timeWeek": 480,
     "timeMonth": 510,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 2
+    }
   },
   {
     "name": "Just Digital Website",
@@ -402,64 +411,70 @@
     "url": "https://contacts.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.justdigital.co.uk.ico",
     "slug": "just-digital-contacts-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 705,
     "timeDay": 554,
     "timeWeek": 652,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 2
+    }
   },
   {
     "name": "Dignity Forms",
     "url": "https://forms.dignitystore.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/forms.dignitystore.co.uk.ico",
     "slug": "dignity-forms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 706,
     "timeDay": 489,
     "timeWeek": 640,
     "timeMonth": 706,
     "timeYear": 706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 2
+    }
   },
   {
     "name": "Graphic Services Website",
     "url": "https://funeral-orderofservice.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funeral-orderofservice.com.ico",
     "slug": "graphic-services-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 443,
-    "timeWeek": 485,
-    "timeMonth": 548,
-    "timeYear": 548,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 528,
+    "timeDay": 305,
+    "timeWeek": 445,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2026-08-26": 1
+    }
   },
   {
     "name": "Let us know Graphic Services",
     "url": "https://letusknow.graphic-services.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/letusknow.graphic-services.co.uk.ico",
     "slug": "let-us-know-graphic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
@@ -467,17 +482,19 @@
     "timeWeek": 652,
     "timeMonth": 708,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 1
+    }
   },
   {
     "name": "Memorial Pages",
     "url": "memorial.graphic-services.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "memorial-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1198,
@@ -485,17 +502,19 @@
     "timeWeek": 1193,
     "timeMonth": 1198,
     "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 1
+    }
   },
   {
     "name": "JD Middleware",
     "url": "middleware.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jd-middleware",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 908,
@@ -503,16 +522,18 @@
     "timeWeek": 906,
     "timeMonth": 908,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 1
+    }
   },
   {
     "name": "Pet Pairs",
     "url": "petpairs.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-pairs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -521,6 +542,8 @@
     "timeWeek": 724,
     "timeMonth": 739,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 0
+    }
   }
 ]
