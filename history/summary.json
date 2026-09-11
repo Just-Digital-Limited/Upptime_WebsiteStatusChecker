@@ -4,10 +4,10 @@
     "url": "reporting.graphic-services.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-services-reporting-ultimate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.10%",
     "time": 1222,
@@ -17,7 +17,8 @@
     "timeYear": 1222,
     "dailyMinutesDown": {
       "2026-07-28": 238,
-      "2026-08-26": 340
+      "2026-08-26": 340,
+      "2026-09-11": 3
     }
   },
   {
@@ -25,10 +26,10 @@
     "url": "https://marketingservicestools.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/marketingservicestools.justdigital.co.uk.ico",
     "slug": "marketing-services-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.47%",
     "time": 557,
@@ -37,7 +38,8 @@
     "timeMonth": 614,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-08-26": 340
+      "2026-08-26": 340,
+      "2026-09-11": 3
     }
   },
   {
@@ -45,10 +47,10 @@
     "url": "https://assetmanager.dignitystore.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/assetmanager.dignitystore.co.uk.ico",
     "slug": "dignity-asset-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.47%",
     "time": 554,
@@ -57,7 +59,8 @@
     "timeMonth": 605,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2026-08-26": 340
+      "2026-08-26": 340,
+      "2026-09-11": 2
     }
   },
   {
@@ -65,10 +68,10 @@
     "url": "https://contacts.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.justdigital.co.uk.ico",
     "slug": "just-digital-contact-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.47%",
     "time": 709,
@@ -77,7 +80,8 @@
     "timeMonth": 723,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2026-08-26": 340
+      "2026-08-26": 340,
+      "2026-09-11": 2
     }
   },
   {
@@ -381,19 +385,20 @@
     "url": "https://altrinchamfeedback.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/altrinchamfeedback.justdigital.co.uk.ico",
     "slug": "altrincham-feedback-form",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.25%",
     "time": 496,
     "timeDay": 389,
     "timeWeek": 503,
     "timeMonth": 489,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 2
     }
   },
   {
@@ -419,11 +424,11 @@
     "url": "https://contacts.justdigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.justdigital.co.uk.ico",
     "slug": "just-digital-contacts-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
     "time": 693,
     "timeDay": 574,
@@ -431,7 +436,8 @@
     "timeMonth": 689,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 2
     }
   },
   {
@@ -439,11 +445,11 @@
     "url": "https://forms.dignitystore.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/forms.dignitystore.co.uk.ico",
     "slug": "dignity-forms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
     "time": 704,
     "timeDay": 608,
@@ -451,7 +457,8 @@
     "timeMonth": 706,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 1
     }
   },
   {
@@ -459,19 +466,20 @@
     "url": "https://funeral-orderofservice.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funeral-orderofservice.com.ico",
     "slug": "graphic-services-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
-    "time": 547,
-    "timeDay": 520,
-    "timeWeek": 606,
-    "timeMonth": 549,
-    "timeYear": 547,
+    "time": 536,
+    "timeDay": 319,
+    "timeWeek": 545,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 1
     }
   },
   {
@@ -479,11 +487,11 @@
     "url": "https://letusknow.graphic-services.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/letusknow.graphic-services.co.uk.ico",
     "slug": "let-us-know-graphic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
     "time": 732,
     "timeDay": 628,
@@ -491,7 +499,8 @@
     "timeMonth": 729,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 1
     }
   },
   {
@@ -499,10 +508,10 @@
     "url": "memorial.graphic-services.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "memorial-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.26%",
     "time": 1252,
@@ -511,7 +520,8 @@
     "timeMonth": 1265,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2026-08-26": 339
+      "2026-08-26": 339,
+      "2026-09-11": 1
     }
   },
   {
@@ -519,9 +529,9 @@
     "url": "middleware.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jd-middleware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.26%",
@@ -531,7 +541,8 @@
     "timeMonth": 903,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-08-26": 338
+      "2026-08-26": 338,
+      "2026-09-11": 1
     }
   },
   {
@@ -539,9 +550,9 @@
     "url": "petpairs.justdigital.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-pairs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.26%",
@@ -551,7 +562,8 @@
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2026-08-26": 338
+      "2026-08-26": 338,
+      "2026-09-11": 0
     }
   }
 ]
