@@ -1,7 +1,7 @@
 url: https://dignitystore.co.uk/
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2026-09-16T00:52:53.063Z
+status: down
+code: 503
+responseTime: 191
+lastUpdated: 2026-09-16T21:48:28.932Z
 startTime: 2026-08-10T09:20:25.029Z
 generator: Upptime <https://github.com/upptime/upptime>
